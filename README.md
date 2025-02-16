@@ -7,7 +7,7 @@ HOW TO USE?
 		> run program
 
 
-HOW DOES IT WORK? (for debug)
+HOW DOES IT WORK? (for debugging)
 > data frame 'vocabulary' with 2 columns:
 	> vocabulary column ('vocab')
 	> definition column ('definition')
